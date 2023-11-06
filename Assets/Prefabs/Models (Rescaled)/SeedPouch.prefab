@@ -237,7 +237,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ccf6650bd7f31984faa0a64867c50742, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  seedPrefab: {fileID: 0}
+  seedPrefab: {fileID: 6027759464018481345, guid: dabb81873b78c744bb5c234fc8d864a9,
+    type: 3}
   dropCooldown: 1
   spawnPoint: {fileID: 5534469514503593942}
 --- !u!1 &8011294672272789741
